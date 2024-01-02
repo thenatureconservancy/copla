@@ -5,21 +5,14 @@ project:
     watch-inputs: false
 
 website:
-  title: "LANDFIRE-Powered Landscape Assessment"
+  title: "LANDFIRE training"
   navbar:
     search: TRUE
     pinned: true
     left:
       - href: index.qmd
         text: Home
-      - href: past.qmd
-        text: Past
-      - href: present.qmd
-        text: Present
-      - href: comparing.qmd
-        text: Comparing
-      - href: about.qmd
-        text: About
+
 
 format:
   html:
